@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RemoteCount", "RemoteCount\RemoteCount.pyproj", "{E4D46F24-DEDD-483E-9173-9DDC60E6F96E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D46F24-DEDD-483E-9173-9DDC60E6F96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D46F24-DEDD-483E-9173-9DDC60E6F96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08EEFFF9-A2BE-41D3-A84C-CC0DBB4F812C}
+	EndGlobalSection
+EndGlobal
